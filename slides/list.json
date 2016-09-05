@@ -1,3 +1,16 @@
 [
-    "index.md"
+    "index.md",
+    "usages.md",
+    "pros.md",
+    "cons.md",
+    "js-modules.md",
+    "compilation-flow.md",
+    "preloaders.md",
+    "loaders.md",
+    "postloaders.md",
+    "plugins.md",
+    "what-is-a-loader.md",
+    "loaders-order.md",
+    "loaders-confgiuration-global.md",
+    "dev-server.md"
 ]

@@ -8,9 +8,14 @@
     "preloaders.md",
     "loaders.md",
     "postloaders.md",
-    "plugins.md",
     "what-is-a-loader.md",
-    "loaders-order.md",
-    "loaders-confgiuration-global.md",
-    "dev-server.md"
+    "plugins.md",
+    "example-plugins.md",
+    "example-plugins-2.md",
+    "dev-server.md",
+    "dev-server-features.md",
+    "configuration.md",
+    "configuration-basic-options.md",
+    "configuration-entries.md",
+    "configuration-entries-with-common-chunks.md"
 ]

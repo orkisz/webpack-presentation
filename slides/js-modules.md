@@ -2,21 +2,13 @@
 
 ### Webpack can load all those module formats
 
-* CommonJS (nodeJS) 
+* CommonJS (nodeJS) `module.exports = …`
 
-    `module.exports = …`
+* AMD (requireJS) `define(”SomeName”, …);`
 
-* AMD (requireJS)
+* Global (through exports-loader) `window.SomeName = …`
 
-    `define(”SomeName”, …);`
-
-* Global (through exports-loader)
-
-    `window.SomeName = …`
-
-* UMD
-
-    Universal Module Definition – combines all above in single file
+* UMD – combines all above in single file
     ```
     if (module.exports) { 
         module.exports = … 

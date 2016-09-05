@@ -12,5 +12,8 @@
     "what-is-a-loader.md",
     "loaders-order.md",
     "loaders-confgiuration-global.md",
-    "dev-server.md"
+    "dev-server.md",
+    "example-plugins.md",
+    "example-plugins-2.md",
+    "dev-server-features.md"
 ]

@@ -1,3 +1,3 @@
 ##  Compilation Flow
 
-This is a new Markdown slide
+![compilation-flow](resources/compilation-flow.png)

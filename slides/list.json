@@ -21,5 +21,6 @@
     "configuration-output.md",
     "configuration-resolve.md",
     "configuration-externals.md",
-    "configuration-loaders.md"
+    "configuration-loaders.md",
+    "q-a.md"
 ]

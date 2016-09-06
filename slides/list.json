@@ -17,5 +17,8 @@
     "configuration.md",
     "configuration-basic-options.md",
     "configuration-entries.md",
-    "configuration-entries-with-common-chunks.md"
+    "configuration-entries-with-common-chunks.md",
+    "configuration-output.md",
+    "configuration-resolve.md",
+    "configuration-externals.md"
 ]

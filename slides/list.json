@@ -20,5 +20,6 @@
     "configuration-entries-with-common-chunks.md",
     "configuration-output.md",
     "configuration-resolve.md",
-    "configuration-externals.md"
+    "configuration-externals.md",
+    "configuration-loaders.md"
 ]

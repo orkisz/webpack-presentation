@@ -1,6 +1,6 @@
 {
-  "name": "webpack",
-  "version": "0.0.0",
+  "name": "webpack-presentation",
+  "version": "0.0.1",
   "private": true,
   "devDependencies": {
     "grunt": "^0.4.5",
@@ -20,9 +20,11 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/orkisz/webpack-presentation.git"
-
   },
   "scripts": {
-    "test": "grunt test"
+    "grunt": "grunt",
+    "test": "npm run grunt -- test",
+    "serve": "npm run grunt -- serve",
+    "deploy": "npm run grunt -- deploy"
   }
 }

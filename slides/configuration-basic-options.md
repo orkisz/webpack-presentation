@@ -10,8 +10,6 @@
 
 `target: string` - for e.g. 'web', 'electron' or 'node'
 
-`externals: Array<Object>` - provide external modules and don't resolve them (CDN!)
-
 note:
     Put your speaker notes here.
     You can see them pressing 's'.

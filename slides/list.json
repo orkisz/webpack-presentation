@@ -23,5 +23,6 @@
     "configuration-externals.md",
     "configuration-loaders.md",
     "usage-with-karma.md",
-    "q-a.md"
+    "q-a.md",
+    "webpack-hot-middleware.md"
 ]

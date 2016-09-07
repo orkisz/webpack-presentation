@@ -7,7 +7,7 @@
     `npm install -g generator-reveal`
 3. Install bower globally
     
-    `npm install -g bower`
+    `npm install -g bower grunt`
 4. Install dependencies
 
     `npm install && bower install`

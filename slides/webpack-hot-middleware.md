@@ -1,6 +1,6 @@
-##  Webpack Hot Middleware
+##  Webpack Dev Middleware
 
-Webpack hot middleware allows you to add hot reloading into 
+Webpack dev middleware allows you to add local server feature to 
 an existing server (e.g. Node.js Express).
 It comes pretty handy if you have dummy API 
 in your Express and you want to use it with front-end 
@@ -18,5 +18,3 @@ application on the same port.
   }));
   ```
   
-  Then you should add webpack-hot-middleware as
-  a plugin and connect it in your webpack config as an entry.

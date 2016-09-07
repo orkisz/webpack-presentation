@@ -22,5 +22,6 @@
     "configuration-resolve.md",
     "configuration-externals.md",
     "configuration-loaders.md",
+    "usage-with-karma.md",
     "q-a.md"
 ]

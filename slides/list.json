@@ -12,6 +12,7 @@
     "plugins.md",
     "example-plugins.md",
     "example-plugins-2.md",
+    "webpack-hot-middleware.md",
     "dev-server.md",
     "dev-server-features.md",
     "configuration.md",
@@ -23,6 +24,5 @@
     "configuration-externals.md",
     "configuration-loaders.md",
     "usage-with-karma.md",
-    "q-a.md",
-    "webpack-hot-middleware.md"
+    "q-a.md"
 ]

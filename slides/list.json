@@ -12,6 +12,7 @@
     "plugins.md",
     "example-plugins.md",
     "example-plugins-2.md",
+    "webpack-hot-middleware.md",
     "dev-server.md",
     "dev-server-features.md",
     "configuration.md",
